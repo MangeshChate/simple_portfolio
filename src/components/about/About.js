@@ -2,7 +2,7 @@ import React from 'react'
 import './about.css'
 export default function About() {
   return (
-    <div className='a'>
+    <div className='a section' id="section2">
 
       <div className="a-left">
         <div className='a-card bg'>

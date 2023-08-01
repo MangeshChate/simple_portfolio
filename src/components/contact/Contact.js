@@ -28,7 +28,7 @@ export default function Contact() {
     }
 
     return (
-        <div className='c'>
+        <div className='c section' id="section4">
             <div className="c-bg"></div>
             <div className="c-wrapper">
                 <div className="c-left">
